@@ -50,7 +50,7 @@ O relatório final é composto por **duas páginas**:
 ## 📁 Arquivos no Repositório
 
 - `relatório_sample_financial.pdf` – versão em PDF do relatório desenvolvido.  
-- (Opcional) `relatorio.pbix` – arquivo editável do Power BI, caso desejado.  
+-  `relatorio.pbix` – arquivo editável do Power BI, caso desejado.  
 
 ---
 
